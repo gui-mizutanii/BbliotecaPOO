@@ -1,5 +1,5 @@
 # BbliotecaPOO
-Este é um sistema de gerenciamento de biblioteca desenvolvido em Java, com conexão a um banco de dados MySQL e orientado a objetos. O sistema permite o cadastro de usuários, cadastro de livros, empréstimos de livros e devoluções.
+- Este é um sistema de gerenciamento de biblioteca desenvolvido em Java, com conexão a um banco de dados MySQL e orientado a objetos. O sistema permite o cadastro de usuários, cadastro de livros, empréstimos de livros e devoluções.
 
 ## REQUISITOS
 - java 8;
@@ -17,4 +17,4 @@ Este é um sistema de gerenciamento de biblioteca desenvolvido em Java, com cone
 
   ## Execução
 
-  E pronto, com todos os passos feitos, você ja pode testar o código da biblioteca feita em JAVA!!!
+  - E pronto, com todos os passos feitos, você ja pode testar o código da biblioteca feita em JAVA!!!
