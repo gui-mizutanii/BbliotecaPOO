@@ -149,4 +149,4 @@ public class DatabaseConnection {
 ## **Conclusão**
 
 - Os maiores desafios do projeto foi organizar o código de um jeito que ele não ficasse de modo estruturado, deixando o código orientado a objetos, também tive muita dificuldade para fazer a interação do código com o banco de dados.
-- O sistema utiliza os princípios da orientação a objetos para organizar a lógica do sistema, garantindo facilidade de manutenção e melhoramento. Usando padrões de projeto como a DAO e Singleton que fortalecem a arquitetura, promovendo separação de responsabilidades e eficiência no gerenciamento de recursos. 
+- O sistema utiliza os princípios da orientação a objetos para organizar a lógica do sistema, garantindo facilidade de manutenção e aperfeiçoamento do código. Usando padrões de projeto como a DAO e Singleton que fortalecem a arquitetura, promovendo separação de responsabilidades e eficiência no gerenciamento de recursos. 
